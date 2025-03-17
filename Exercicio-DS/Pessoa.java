@@ -10,6 +10,7 @@ public class Pessoa {
         this.email = email;
     }  
 
+    public Pessoa (){}
     //Método GET
     public String getNome(){
         return nome;
